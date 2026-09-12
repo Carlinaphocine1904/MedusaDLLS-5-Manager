@@ -61,14 +61,15 @@ Games are added every day; keep an eye on the app itself — you’ll receive 
 
 
 ## Supported cards
-RTX 30 (3060, 3080), 40 (4070, 4090), 50 (5060, 5070, 5080, 5090)
+- RTX 2060 2070 2080 2090
+- RTX 3050 3060 3070 3080 3090 
+- RTX 4050 4060 4070 4080 4090
+- RTX 5050 5060 5070 5080 5090
 
 
 <img width="738" height="415" alt="645827121-59c98ee8-dbbf-41bb-9f83-8dfb100f1be8" src="https://github.com/user-attachments/assets/cc42325b-30a8-4fcf-942a-d5cad8e3b470" />
 <img width="738" height="415" alt="645827131-fc22efb1-9570-4c68-8d6e-d9599aab6d43" src="https://github.com/user-attachments/assets/49c74332-4af2-42cc-bb75-69a758d2c0b8" />
 <img width="738" height="415" alt="645827149-1a76eb10-7658-4ec1-bb94-9f1b6343621a" src="https://github.com/user-attachments/assets/87e75a3b-b78a-43ae-bacb-8863a2a5d64b" />
-<img width="679" height="451" alt="645827163-6fa9c440-4783-4dd1-8d9e-3504174848d9" src="https://github.com/user-attachments/assets/102b61bc-04c0-4751-b591-4209918006ae" />
-
 
 
 
