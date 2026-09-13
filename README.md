@@ -31,7 +31,7 @@ Control by the developers. Artists and developers receive tools for fine‑tunin
 
 2. Unzip the zip archive to any free space using the password “Medusa”
 
-3. Run Medusa DLLS5.exe as an administrator
+3. Run Medusa.exe as an administrator
 
 - After a quick installation, Medusa DLLS 5 Manager will open, where you can view a list of all the games in which you can try DLLS 5.
 
