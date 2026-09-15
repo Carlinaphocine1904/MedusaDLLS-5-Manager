@@ -2,7 +2,8 @@
 
 # Medusa DLLS 5 Manager 
 
-<img width="1280" height="820" alt="650578848-16057f14-1e36-4196-9216-a62c8a349e39" src="https://github.com/user-attachments/assets/4c6b9877-bbb1-4d2e-bd4f-e532602f31b4" />
+<img width="3046" height="2151" alt="medusadlls5" src="https://github.com/user-attachments/assets/ecf13965-af97-4263-aa97-e5f1e4a5f1f0" />
+
 
 Medusa Dlls 5 Manager is an application that provides the ability to enable DLSS 5 in various games. 
 DLSS 5 (Deep Learning Super Sampling) is NVIDIA’s latest technology, which marks a significant shift in the approach to improving graphics in games. Unlike previous versions, which mainly focused on image scaling or generating intermediate frames, DLSS 5 directly affects the image formation process itself using neural networks.
@@ -38,6 +39,7 @@ Control by the developers. Artists and developers receive tools for fine‑tunin
 
 
 ## Games
+- Horizon
 - Forza Horizon 5, 6
 - Red Dead Redemption 2
 - Rust
